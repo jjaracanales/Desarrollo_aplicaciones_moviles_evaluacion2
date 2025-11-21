@@ -7,7 +7,7 @@ Instituto Profesional San Sebastián
 
 - **Francisco Alejandro Bernal Araya** - francisco.bernal.araya@estudiante.ipss.cl
 - **José Antonio Jara Canales** - jose.jara.canales@estudiante.ipss.cl  
-- **Raúl Veloso Ortiz** - raul.veloso.ortiz@estudiante.ipss.cl
+- **Raúl Ignacio Veloso Ortiz** - raul.veloso.ortiz@estudiante.ipss.cl
 - **Adolfo Campos Gómez** - Adolfo.campos.gomez@estudiante.ipss.cl
 
 ---
@@ -253,10 +253,13 @@ La aplicación presenta:
 
 ## 📄 Licencia
 
-Proyecto académico - Instituto Profesional San Sebastián © 2024
+Proyecto académico - Instituto Profesional San Sebastián © 2025
 
 ---
 
 ## 📞 Contacto
 
 Para consultas sobre este proyecto, contactar a cualquiera de los integrantes a través de sus emails institucionales.
+
+Video app en funcionamiento:
+https://drive.google.com/file/d/1y-o78g9f-AGOX9z12kpL1liqaDFAR9WI/view?usp=drive_link
