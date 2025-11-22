@@ -5,7 +5,6 @@ Instituto Profesional San Sebastián
 
 ## 👥 Integrantes del Equipo
 
-- **Francisco Alejandro Bernal Araya** - francisco.bernal.araya@estudiante.ipss.cl
 - **José Antonio Jara Canales** - jose.jara.canales@estudiante.ipss.cl  
 - **Raúl Ignacio Veloso Ortiz** - raul.veloso.ortiz@estudiante.ipss.cl
 - **Adolfo Campos Gómez** - Adolfo.campos.gomez@estudiante.ipss.cl
